@@ -5,11 +5,10 @@
 CrawlDeck &bull; RankPulse &bull; DevStation &bull; Universal Queue &bull; OmniDrop &bull; Visual Workflows &bull; FFmpeg Media Suite
 
 [**Download Latest Release**](https://github.com/hamzaiqbal35/vortex-releases/releases/latest) 
-![GitHub Downloads](https://img.shields.io/github/downloads/hamzaiqbal35/vortex-releases/total)
 
 ---
 
-## Downloads (Windows & Linux)
+## Downloads (Windows & Linux) ![GitHub Downloads](https://img.shields.io/github/downloads/hamzaiqbal35/vortex-releases/total)
 
 Visit the [**Releases**](https://github.com/hamzaiqbal35/vortex-releases/releases/latest) page and pick the package for your system:
 
