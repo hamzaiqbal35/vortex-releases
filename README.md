@@ -4,7 +4,8 @@
 
 CrawlDeck &bull; RankPulse &bull; DevStation &bull; Universal Queue &bull; OmniDrop &bull; Visual Workflows &bull; FFmpeg Media Suite
 
-[**Download Latest Release**](https://github.com/hamzaiqbal35/vortex-releases/releases/latest) ![GitHub Downloads](https://img.shields.io/github/downloads/hamzaiqbal35/vortex-releases/total)
+[**Download Latest Release**](https://github.com/hamzaiqbal35/vortex-releases/releases/latest) 
+![GitHub Downloads](https://img.shields.io/github/downloads/hamzaiqbal35/vortex-releases/total)
 
 ---
 
