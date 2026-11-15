@@ -22,4 +22,4 @@ Vortex includes or interacts with third-party software. The notices below are a 
 | Math.js | `mathjs` | Apache-2.0 |
 | Lucide React | `lucide-react` | ISC |
 
-The applicable license texts and required notices for bundled third-party components are included with the Vortex distribution in [location].
+The applicable license texts and required notices for bundled third-party components are included with the Vortex distribution.
